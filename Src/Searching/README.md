@@ -4,7 +4,7 @@ Repository ini merupakan implementasi **algoritma Linear Search** pada Program M
 
 Fitur pencarian memungkinkan pengguna mencari pelanggan berdasarkan nama tanpa harus mengetik nama secara lengkap (**Partial Match**). Proses pencarian dilakukan menggunakan algoritma **Linear Search**, yaitu memeriksa setiap elemen antrean dari depan hingga belakang sampai seluruh data selesai diperiksa.
 
-Untuk informasi detail _Source Code_ bisa klik link[https://github.com/WanZKey/UAS_STD_Kelompok-3/blob/main/Src/Searching/Penjelasan_Source-Code.md] ini
+Untuk informasi detail **Source Code** bisa klik link [https://github.com/WanZKey/UAS_STD_Kelompok-3/blob/main/Src/Searching/Penjelasan_Source-Code.md] ini.
 
 ---
 
