@@ -3,9 +3,9 @@
 Repositori ini berisi keseluruhan source code, laporan, dan dokumen presentasi untuk memenuhi Tugas Proyek Akhir (UAS) pada mata kuliah Struktur Data.
 
 **Judul Proyek:**
-```
-SIMULASI PENERAPAN STRUKTUR DATA QUEUE DAN ALGORITMA SEQUENTIAL SEARCHING PADA SISTEM MANAJEMEN OPERASIONAL KANTIN BERBASIS KOTLIN
-```
+
+> "SIMULASI PENERAPAN STRUKTUR DATA QUEUE DAN ALGORITMA SEQUENTIAL SEARCHING PADA SISTEM MANAJEMEN OPERASIONAL KANTIN BERBASIS KOTLIN"
+
 
 **Dosen Pengampu:** `Putri Armilia Prayesy, M.Kom.`
 
