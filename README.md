@@ -3,9 +3,11 @@
 Repositori ini berisi keseluruhan source code, laporan, dan dokumen presentasi untuk memenuhi Tugas Proyek Akhir (UAS) pada mata kuliah Struktur Data.
 
 **Judul Proyek:**
-`SIMULASI PENERAPAN STRUKTUR DATA QUEUE DAN ALGORITMA SEQUENTIAL SEARCHING PADA SISTEM MANAJEMEN OPERASIONAL KANTIN BERBASIS KOTLIN`
+```
+SIMULASI PENERAPAN STRUKTUR DATA QUEUE DAN ALGORITMA SEQUENTIAL SEARCHING PADA SISTEM MANAJEMEN OPERASIONAL KANTIN BERBASIS KOTLIN
+```
 
-**Dosen Pengampu:** Putri Armilia Prayesy, M.Kom.
+**Dosen Pengampu:** `Putri Armilia Prayesy, M.Kom.`
 
 ### Daftar Anggota Kelompok
 
@@ -84,8 +86,8 @@ Berikut adalah struktur folder dari repositori ini:
 
 2. **[Src](https://github.com/WanZKey/UAS_STD_Kelompok-3/tree/main/Src)**: Direktori ini berisi source code utama dari program beserta program yang sudah di-compile.
 
-* **[Queue](https://www.google.com/search?q=https://github.com/WanZKey/UAS_STD_Kelompok-3/tree/main/Src/Queue)**: Berisi implementasi program utama manajemen antrean kantin. Terdapat source code Kotlin (`src/queue.kt`), file eksekusi Java Archive (`app/queue.jar`), dan panduan khusus program Queue (`README.md`).
-* **[Searching](https://www.google.com/search?q=https://github.com/WanZKey/UAS_STD_Kelompok-3/tree/main/Src/Searching)**: Berisi implementasi program lanjutan dengan fitur pencarian pelanggan. Terdapat source code Kotlin (`src/searching.kt`), file eksekusi Java Archive (`app/searching.jar`), panduan khusus program Searching (`README.md`), dan file dokumentasi pembedahan kode (`Penjelasan_Source-Code.md`).
+* **[Queue](https://github.com/WanZKey/UAS_STD_Kelompok-3/tree/main/Src/Queue)**: Berisi implementasi program utama manajemen antrean kantin. Terdapat source code Kotlin (`src/queue.kt`), file eksekusi Java Archive (`app/queue.jar`), dan panduan khusus program Queue (`README.md`).
+* **[Searching](https://github.com/WanZKey/UAS_STD_Kelompok-3/tree/main/Src/Searching)**: Berisi implementasi program lanjutan dengan fitur pencarian pelanggan. Terdapat source code Kotlin (`src/searching.kt`), file eksekusi Java Archive (`app/searching.jar`), panduan khusus program Searching (`README.md`), dan file dokumentasi pembedahan kode (`Penjelasan_Source-Code.md`).
 
 ---
 
