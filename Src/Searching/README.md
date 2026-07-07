@@ -1,8 +1,13 @@
-# Linear Search pada Program Manajemen Antrean Kantin Kampus
+# PoC - Linear Search
 
 Repository ini merupakan implementasi **algoritma Linear Search** pada Program Manajemen Antrean Kantin Kampus yang dibuat menggunakan bahasa **Kotlin**.
 
 Fitur pencarian memungkinkan pengguna mencari pelanggan berdasarkan nama tanpa harus mengetik nama secara lengkap (**Partial Match**). Proses pencarian dilakukan menggunakan algoritma **Linear Search**, yaitu memeriksa setiap elemen antrean dari depan hingga belakang sampai seluruh data selesai diperiksa.
+
+```text
+Untuk informasi detail source code bisa klik link[] ini 
+
+```
 
 ---
 
